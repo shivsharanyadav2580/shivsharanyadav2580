@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Shiv Sharan Yadav
+# Hi there! 👋 I'm Shivsharan Yadav
 
 Welcome to my GitHub profile! I'm a passionate developer dedicated to building innovative solutions and contributing to the tech community.
 
@@ -11,9 +11,9 @@ Welcome to my GitHub profile! I'm a passionate developer dedicated to building i
 
 ## 💻 Tech Stack
 
-**Languages:** JavaScript, Python, Java, HTML, CSS  
+**Languages:** JavaScript, Python, Java 
 **Frontend:** React, Vue.js, Tailwind CSS  
-**Backend:** Node.js, Express, Django  
+**Backend:** SpringBoot , Spring AI , Node js   
 **Databases:** MongoDB, PostgreSQL, MySQL  
 **Tools:** Git, Docker, VS Code, Linux  
 
@@ -21,30 +21,24 @@ Welcome to my GitHub profile! I'm a passionate developer dedicated to building i
 
 ![Profile Views](https://komarev.com/ghpvc/?username=shivsharanyadav2580&color=blue)
 
-```
-🏆 Achievements
-├─ Active Open Source Contributor
-├─ Problem Solver
-└─ Continuous Learner
-```
+
 
 ## 🎯 Current Focus
 
 - 🔍 Exploring advanced backend architecture patterns
-- 📚 Contributing to meaningful open-source projects
-- 🚀 Building scalable web applications
-- 💬 Helping the developer community
+
+
 
 ## 📚 Featured Projects
 
-<!-- Star your best projects here -->
+
 Check out my repositories to see what I've been working on!
 
 ## 🔗 Connect With Me
 
 - 💼 [LinkedIn](https://linkedin.com/in/shivsharanyadav2580)
 - 🐦 [Twitter](https://twitter.com/shivsharanyadav)
-- 📧 Email: your.email@example.com
+- 📧 Email: shivsharanyadav9516@gmail.com
 
 ## 📈 Let's Collaborate
 
@@ -58,4 +52,4 @@ I'm always interested in:
 
 **⭐️ Feel free to star my repositories if you find them useful!**
 
-*Last updated: May 2026*
+
